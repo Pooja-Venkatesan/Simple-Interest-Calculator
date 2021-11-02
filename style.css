@@ -5,7 +5,9 @@ body {
 }
 
 @media only screen and (max-width: 780px)  {
-   
+    body{
+        margin: 0 auto;
+    }
     div{
         margin: 0 auto;
     }
